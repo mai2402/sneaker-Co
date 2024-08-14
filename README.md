@@ -27,10 +27,4 @@ The project is built using the following technologies:
 - **Smooth Navigation**: React Router allows users to navigate seamlessly between different pages (e.g., Home, Product Details, Cart, Checkout).
 - **Modern UI**: Tailwind CSS and Font Awesome ensure that the design is clean, modern, and user-friendly.
 
-## 🔧 Installation and Setup
 
-To get started with Sneaker Co, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/mai2402/sneaker-Co.git
